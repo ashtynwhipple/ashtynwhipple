@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+My name is Ashtyn Whipple and I love puzzles and collaborating with groups to solve them. 
+
+I am an Applied Mathematics student at Brigham Young University with a passion for learning, problem-solving, and serving. Throughout my college career I have gained experience in mathematical modeling, programming, data science, and physics.
+
+Currently, I work as a research assistant, where I apply data assimilation techniques to model complex microbial communities. I also have experience tutoring and teaching, helping others develop their skills in math and computer science.
+
+For one of my passion projects I modeled cancer radiation therapy with monte carlo simulations. You can find out more from my respository. I'm currently learning more about how I can dive deeper into this project and learn more about medical physics. Feel free to ask my about my projects! You can reach me at www.linkedin.com/in/ashtyn-whipple 
+
+I am eager to explore opportunities in computational research, specifically dealing with cancer, where I can apply my technical expertise and problem-solving mindset. Always looking to learn, grow, and collaborate on meaningful projects!
 
 <!--
 **ashtynwhipple/ashtynwhipple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
